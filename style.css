@@ -1,0 +1,16 @@
+body {
+  font-family: "DejaVu Sans Mono", 'Courier New', monospace;
+}
+#directions,
+#ingredients {
+  border: none;
+  text-decoration: underline;
+}
+h1 {
+  background-color: red;
+  color: white;
+  padding: 5px;
+}
+h2 {
+  border-bottom: #000 2px solid;
+}
