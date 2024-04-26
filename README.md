@@ -7,3 +7,6 @@ This project showcases the creation of HTML boilerplate, use of headers, paragra
 It is good practice for creating GitHub repositories, and publish the web projects there.
 
 This project also allowed for lots of practice using Git to clone, add, commit, and push changes to a repository.
+
+**Update:**  
+2024-04-26 :: Added some simple styling as per the assignment of CSS Foundations The Cascade.
